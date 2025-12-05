@@ -1,3 +1,7 @@
+// RF32 BLE Bridge
+// Copyright © 2025, Jeremiasz Grzesiuk (JeremiDev)
+// MIT License
+
 #ifndef DATA_MODELS_H
 #define DATA_MODELS_H
 

@@ -1,3 +1,7 @@
+// RF32 BLE Bridge
+// Copyright © 2025, Jeremiasz Grzesiuk (JeremiDev)
+// MIT License
+
 #include "ModeCallbacks.h"
 
 void ModeCallbacks::onRead(NimBLECharacteristic* pCharacteristic, NimBLEConnInfo& connInfo) {

@@ -1,3 +1,7 @@
+// RF32 BLE Bridge
+// Copyright © 2025, Jeremiasz Grzesiuk (JeremiDev)
+// MIT License
+
 #include <NimBLEDevice.h>
 #include <ArduinoJson.h>
 #include <ctype.h>

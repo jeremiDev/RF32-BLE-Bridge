@@ -1,3 +1,7 @@
+// RF32 BLE Bridge
+// Copyright © 2025, Jeremiasz Grzesiuk (JeremiDev)
+// MIT License
+
 #include "SendRFDataCallbacks.h"
 
 void SendRfDataCallbacks::onWrite(NimBLECharacteristic* pCharacteristic, NimBLEConnInfo& connInfo) {

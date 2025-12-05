@@ -1,3 +1,7 @@
+// RF32 BLE Bridge
+// Copyright © 2025, Jeremiasz Grzesiuk (JeremiDev)
+// MIT License
+
 #ifndef EXCEPTIONS_CODES_H
 #define EXCEPTIONS_CODES_H
 

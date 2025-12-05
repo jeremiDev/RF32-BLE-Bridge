@@ -1,3 +1,7 @@
+// RF32 BLE Bridge
+// Copyright © 2025, Jeremiasz Grzesiuk (JeremiDev)
+// MIT License
+
 #include "RFController.h"
 
 RFController::RFController() {
@@ -33,6 +37,7 @@ bool RFController::setup() {
   applyConfig(_radioConfiguration);
 
   // Set default mode to TX
+  _radioMode = RadioMode::RX;
   setMode(RadioMode::TX);
 
   Serial.println("RF Controller setup complete");

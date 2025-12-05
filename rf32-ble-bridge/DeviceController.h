@@ -1,3 +1,7 @@
+// RF32 BLE Bridge
+// Copyright © 2025, Jeremiasz Grzesiuk (JeremiDev)
+// MIT License
+
 #ifndef DEVICE_CONTROLLER_H
 #define DEVICE_CONTROLLER_H
 

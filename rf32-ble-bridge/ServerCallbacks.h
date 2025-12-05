@@ -1,3 +1,7 @@
+// RF32 BLE Bridge
+// Copyright © 2025, Jeremiasz Grzesiuk (JeremiDev)
+// MIT License
+
 #ifndef SERVER_CALLBACKS_H
 #define SERVER_CALLBACKS_H
 
